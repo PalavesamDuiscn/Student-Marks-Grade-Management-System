@@ -1,5 +1,3 @@
-Here's an updated README file with more information:
-
 
 Student Marks & Grade Management System
 
